@@ -1,0 +1,41 @@
+.main{
+
+    border: 2px solid black;
+    width: 500px;
+    margin: 0 auto;
+    height: 350px;
+    background-color: gray;
+}
+.result{
+    width: 98%;
+    background-color: white;
+    color: black;
+    height: 70px;
+    font-size: x-large;
+    border: 2px solid black;
+}
+.clearBTN{
+width: 100%;
+margin-top: 10px;
+background-color: silver;
+height: 50px;
+color: white;
+    font-size: medium;
+}
+
+.btn{
+   
+    background-color: silver;
+    width: 120px;
+    margin: 1px;
+    height: 50px;
+    color: white;
+    font-size: medium;
+}
+.bt{
+    background-color: silver;
+    width: 370px;
+    height: 50px;
+    color: white;
+    font-size: medium;
+}
